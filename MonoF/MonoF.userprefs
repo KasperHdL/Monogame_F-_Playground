@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MonoF.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsteroidGame.fs">
+    <Files>
+      <File FileName="Main.fs" Line="8" Column="32" />
+      <File FileName="AsteroidGame.fs" Line="65" Column="53" />
+      <File FileName="Actors.fs" Line="27" Column="26" />
+      <File FileName="FlappyBird.fs" Line="76" Column="44" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

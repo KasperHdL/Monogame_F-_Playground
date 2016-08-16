@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="MonoF/MonoF.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoF/AssemblyInfo.fs">
+    <Files>
+      <File FileName="MonoF/Main.fs" Line="1" Column="1" />
+      <File FileName="MonoF/AsteroidGame.fs" Line="1" Column="1" />
+      <File FileName="MonoF/packages.config" Line="1" Column="1" />
+      <File FileName="MonoF/Tutorial.fs" Line="613" Column="1" />
+      <File FileName="MonoF/AssemblyInfo.fs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MonoF" expanded="True">
+            <Node name="MonoF" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

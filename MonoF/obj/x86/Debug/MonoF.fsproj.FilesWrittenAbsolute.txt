@@ -1,0 +1,9 @@
+/home/kaholi/Projects/MonoF/MonoF/MonoF/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/MonoF.exe.mdb
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/MonoF.exe
+/home/kaholi/Projects/MonoF/MonoF/MonoF/obj/x86/Debug/MonoF.exe
+/home/kaholi/Projects/MonoF/MonoF/MonoF/obj/x86/Debug/MonoF.exe.mdb
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/Lidgren.Network.dll
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/MonoGame.Framework.dll
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/NVorbis.dll
+/home/kaholi/Projects/MonoF/MonoF/MonoF/bin/Debug/OpenTK.dll
